@@ -3,6 +3,7 @@ YouTube Data Collection and Analysis
 YouTube is an amazing data source for you. There are so many problems we can solve by collecting data from YouTube.
 
  To collect data from YouTube, you need to set up an API. Here are the steps you can follow:
+ 
     1. Go to Google Cloud Console.
     2. Click on the project drop-down at the top, then “New Project”.
     3. Enter a project name and click “Create”.
